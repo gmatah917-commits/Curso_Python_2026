@@ -1,0 +1,201 @@
+Name,Country,Sex,Math,Physics,Chemistry,Biology,History,English,Programming
+Maria Smith,Canada,M,74,68,66,94,65,97,87
+Alex Smith,Mexico,M,74,92,98,61,95,72,94
+David Johnson,Brazil,F,60,70,87,81,77,69,73
+Sofia Smith,Mexico,F,66,82,82,98,76,62,89
+Carlos Smith,Brazil,M,95,78,100,99,83,96,72
+Maria Smith,United States,F,65,74,66,84,77,89,100
+Sofia Johnson,Canada,F,73,77,64,98,100,70,94
+Ana Johnson,Brazil,F,77,100,95,74,80,63,74
+Alex Garcia,Brazil,F,64,73,96,80,73,91,85
+Emma Johnson,Canada,M,75,95,94,76,97,87,97
+David Garcia,United States,M,92,91,65,63,67,69,100
+John Hernandez,Brazil,M,84,84,98,89,93,76,95
+Alex Hernandez,Mexico,F,81,67,78,87,70,89,60
+Luis Lopez,United States,M,100,79,100,92,98,72,69
+Sofia Johnson,Spain,M,98,80,91,61,67,83,79
+Ana Smith,United States,M,65,91,64,94,68,68,90
+Carlos Johnson,Canada,F,73,94,72,79,85,83,88
+Carlos Martinez,Mexico,M,74,64,81,61,97,95,74
+Olivia Johnson,Mexico,M,100,63,74,64,62,81,64
+Carlos Johnson,Canada,F,73,94,68,96,96,90,75
+Emma Martinez,United States,M,66,87,82,87,86,89,63
+Maria Smith,Brazil,F,66,75,72,72,94,88,68
+David Johnson,Canada,F,75,64,88,95,66,63,94
+Alex Smith,United States,M,86,91,90,73,85,63,70
+David Smith,Brazil,F,89,78,87,95,91,69,72
+Luis Johnson,Mexico,M,80,63,63,97,90,92,93
+John Smith,Spain,M,71,64,98,64,75,85,67
+Olivia Johnson,Spain,M,99,65,86,97,96,93,80
+Luis Johnson,Canada,M,76,85,68,79,89,80,64
+Alex Martinez,Spain,M,64,94,73,92,76,68,82
+Maria Johnson,Canada,F,70,88,94,79,99,93,60
+Carlos Garcia,Mexico,M,76,67,66,95,69,77,78
+Olivia Johnson,Canada,M,100,76,92,91,76,63,65
+David Garcia,Mexico,M,81,68,100,76,70,88,95
+David Lopez,Mexico,M,64,69,94,62,83,97,95
+John Martinez,United States,M,79,83,62,82,73,75,66
+Sofia Lopez,Brazil,M,75,70,71,86,61,71,81
+David Hernandez,United States,F,70,66,84,62,90,74,72
+Emma Garcia,Canada,M,74,61,72,85,81,77,64
+Luis Garcia,Spain,F,94,81,61,67,76,71,97
+Luis Smith,Mexico,F,82,80,87,98,92,67,84
+Olivia Johnson,Canada,M,87,60,93,94,72,83,87
+Maria Hernandez,Canada,F,67,79,92,79,86,80,85
+Luis Lopez,United States,M,86,84,71,99,96,79,85
+Carlos Smith,Canada,F,73,87,97,98,80,89,88
+Emma Hernandez,United States,F,70,65,78,92,100,99,81
+Maria Johnson,Canada,M,72,69,61,62,75,90,99
+Maria Martinez,Brazil,M,84,91,85,75,69,60,66
+David Johnson,United States,F,63,95,75,67,89,68,89
+Carlos Lopez,Spain,F,88,99,92,87,95,88,70
+Emma Martinez,Canada,M,100,77,93,91,100,75,77
+Emma Smith,Canada,M,77,81,80,94,65,68,69
+Ana Martinez,United States,M,64,86,86,81,94,89,86
+Alex Johnson,Brazil,F,97,61,96,84,90,60,82
+Luis Martinez,Brazil,M,91,74,77,87,91,61,84
+Sofia Hernandez,Brazil,M,89,68,99,94,61,85,97
+Olivia Hernandez,Mexico,M,87,68,89,71,63,76,84
+Sofia Johnson,Brazil,F,81,84,77,86,76,65,90
+Alex Hernandez,Spain,M,82,74,64,62,61,75,72
+Alex Lopez,United States,M,68,90,67,96,73,89,76
+Sofia Johnson,Spain,M,70,79,66,97,61,79,96
+David Martinez,United States,M,97,100,75,66,79,98,67
+Olivia Smith,Canada,F,83,64,92,81,60,86,91
+Maria Martinez,Canada,F,69,87,71,93,77,99,94
+Emma Martinez,Brazil,F,80,75,65,77,88,75,89
+Olivia Lopez,Brazil,F,61,91,80,71,91,73,82
+Luis Garcia,Canada,F,95,60,93,72,65,75,86
+Emma Lopez,United States,F,91,88,61,65,78,74,85
+Ana Garcia,Spain,F,90,95,93,82,87,95,81
+Sofia Hernandez,Brazil,F,79,76,74,67,72,80,67
+Carlos Hernandez,United States,M,73,90,77,97,93,98,78
+Maria Johnson,Canada,M,83,71,79,60,94,68,77
+Alex Smith,Spain,F,68,100,91,66,60,96,78
+Emma Martinez,Brazil,F,71,63,76,90,67,64,85
+Emma Smith,Spain,M,69,69,96,79,65,75,67
+Carlos Martinez,Spain,M,93,84,88,88,79,97,87
+Luis Lopez,Spain,M,99,66,73,100,73,76,65
+John Johnson,United States,M,70,60,86,88,98,90,78
+Alex Johnson,Canada,F,89,64,74,76,100,97,72
+David Smith,Spain,M,69,77,69,64,63,70,79
+Olivia Hernandez,Spain,F,88,67,89,79,85,77,92
+Carlos Martinez,Brazil,M,98,62,87,80,98,76,61
+Maria Johnson,Spain,M,77,96,62,71,90,93,88
+Luis Johnson,Spain,F,100,91,65,90,82,86,81
+Sofia Hernandez,Mexico,M,81,86,91,78,85,95,62
+Emma Smith,Canada,F,80,67,85,92,60,94,89
+David Smith,United States,F,99,91,100,88,63,73,77
+Carlos Johnson,Canada,F,91,67,61,100,98,75,70
+Luis Lopez,Mexico,F,65,74,67,89,67,69,91
+Luis Lopez,Canada,F,90,90,75,89,95,69,84
+Ana Lopez,Spain,M,64,77,86,81,92,77,60
+Luis Hernandez,Canada,F,69,88,94,90,82,81,95
+Carlos Martinez,Brazil,F,72,75,96,84,74,86,62
+Sofia Hernandez,Brazil,F,84,69,91,62,68,92,97
+Sofia Smith,Brazil,M,93,89,60,69,86,69,64
+Emma Garcia,Canada,F,65,81,94,84,80,100,91
+Carlos Smith,Spain,M,75,100,78,74,65,87,66
+Maria Martinez,United States,F,61,62,80,63,78,82,83
+David Johnson,United States,F,96,71,70,71,65,99,84
+Olivia Hernandez,United States,F,97,69,74,89,100,76,89
+Luis Hernandez,Mexico,F,78,94,70,64,88,82,97
+Luis Hernandez,Brazil,F,89,79,72,84,90,66,75
+David Lopez,Canada,F,78,61,85,77,60,96,63
+Olivia Hernandez,Brazil,F,74,98,82,74,100,72,99
+Luis Hernandez,United States,M,100,62,79,88,62,97,83
+John Smith,Canada,F,86,71,72,68,94,83,93
+Carlos Garcia,United States,F,90,78,81,67,89,64,69
+Ana Hernandez,Brazil,F,65,85,60,76,94,67,89
+Sofia Hernandez,Canada,F,100,83,66,74,90,61,99
+Carlos Garcia,Spain,M,64,100,89,79,86,67,68
+Alex Smith,Canada,F,67,66,75,94,68,84,89
+Sofia Hernandez,Spain,F,97,69,86,66,91,99,86
+Luis Smith,Canada,M,88,88,75,83,66,83,94
+Sofia Smith,Brazil,F,72,67,89,65,73,100,98
+Alex Smith,Canada,M,68,96,73,64,95,73,97
+Ana Johnson,Canada,M,98,60,77,69,68,94,76
+John Smith,Mexico,M,60,82,75,97,80,61,71
+Luis Smith,United States,F,93,67,64,90,88,83,92
+Olivia Smith,Brazil,M,99,62,93,79,89,61,63
+Emma Martinez,Brazil,M,91,88,64,65,80,98,69
+Maria Johnson,Canada,F,84,98,93,78,89,92,98
+David Smith,Mexico,M,87,88,74,86,81,89,85
+David Hernandez,Mexico,F,87,80,76,83,69,90,64
+Maria Smith,Mexico,F,66,83,68,95,63,97,95
+Carlos Garcia,Mexico,F,82,87,63,78,98,79,82
+Maria Lopez,Spain,M,69,90,74,66,82,95,83
+Maria Garcia,Spain,M,87,95,99,99,95,61,98
+Luis Smith,United States,F,79,81,82,60,71,69,96
+David Smith,United States,M,65,93,73,84,86,89,81
+John Garcia,Canada,F,96,98,65,63,69,70,99
+Alex Hernandez,Mexico,F,88,87,91,98,88,86,77
+Ana Lopez,Mexico,F,87,67,78,97,91,93,79
+Alex Johnson,Brazil,M,60,73,79,73,68,76,78
+Sofia Smith,Mexico,F,87,71,68,84,94,74,92
+Carlos Hernandez,Canada,M,85,62,87,61,89,64,80
+Olivia Martinez,Spain,F,100,86,78,67,85,61,80
+John Lopez,Brazil,F,65,87,66,75,87,97,85
+Carlos Smith,Brazil,F,81,74,81,70,64,92,100
+Maria Lopez,Spain,M,82,82,69,75,66,69,76
+Ana Johnson,Spain,M,64,71,100,91,89,96,97
+Emma Hernandez,Spain,F,100,80,69,88,64,90,88
+Luis Garcia,Spain,M,82,92,64,79,89,88,62
+Alex Garcia,Canada,M,65,99,98,92,84,89,97
+Carlos Hernandez,Mexico,F,96,72,80,98,90,92,69
+Alex Martinez,Mexico,F,65,92,71,62,75,88,88
+Carlos Lopez,Spain,M,83,83,78,84,86,81,98
+Alex Hernandez,Canada,M,81,66,95,84,78,76,98
+John Garcia,Mexico,M,82,79,85,68,98,65,79
+Carlos Martinez,Canada,M,93,65,87,92,83,61,83
+Luis Johnson,United States,F,91,72,74,68,69,64,78
+Maria Lopez,Spain,M,81,99,68,98,84,69,70
+John Hernandez,Spain,M,88,62,86,83,75,88,99
+Luis Hernandez,Brazil,M,94,75,79,90,72,83,96
+Emma Martinez,Canada,F,92,93,86,70,72,98,68
+Luis Smith,Brazil,F,95,66,93,67,78,65,70
+Luis Martinez,Spain,M,87,65,74,88,82,61,86
+Alex Martinez,Spain,F,75,84,65,83,74,61,80
+Maria Hernandez,Canada,M,68,62,78,90,68,90,88
+Olivia Smith,Mexico,M,76,73,69,95,98,93,87
+Maria Garcia,United States,F,67,63,75,86,100,99,89
+Maria Smith,Brazil,M,100,92,96,75,69,78,87
+Alex Lopez,Canada,M,96,86,71,65,93,83,64
+Carlos Lopez,Spain,M,84,90,62,100,84,83,76
+Alex Garcia,Mexico,F,75,100,66,97,81,68,62
+Sofia Lopez,Canada,M,89,90,100,71,68,64,89
+Alex Garcia,United States,M,72,62,80,79,92,85,94
+Emma Garcia,Mexico,M,78,82,63,81,77,67,83
+David Martinez,Brazil,F,81,71,91,91,83,93,77
+Maria Hernandez,Brazil,M,87,98,71,94,78,80,66
+Maria Garcia,Canada,F,88,98,87,70,88,82,88
+Alex Hernandez,Canada,F,77,100,63,64,100,85,83
+Carlos Hernandez,United States,M,69,98,88,62,68,64,75
+Sofia Garcia,Brazil,M,98,69,88,83,83,88,64
+Olivia Johnson,Spain,F,85,80,77,75,67,61,71
+Emma Lopez,Brazil,M,76,76,88,73,99,78,91
+Ana Smith,United States,M,88,71,88,65,80,82,64
+Carlos Lopez,Canada,F,70,100,71,83,92,74,67
+Ana Johnson,United States,F,61,83,95,96,83,89,95
+John Lopez,Mexico,M,79,85,90,93,86,86,96
+Maria Johnson,Canada,M,88,89,93,82,68,95,100
+Olivia Johnson,United States,F,92,63,67,93,69,79,70
+John Garcia,United States,F,93,78,65,76,72,100,95
+Luis Johnson,Canada,M,92,70,97,97,69,70,99
+Olivia Garcia,Spain,M,61,65,62,96,76,73,96
+David Lopez,Mexico,F,100,94,78,79,90,75,85
+Luis Martinez,Mexico,M,70,88,86,90,89,73,81
+Olivia Johnson,Canada,F,82,85,68,83,92,95,66
+Sofia Johnson,Brazil,M,77,88,75,69,66,63,78
+David Lopez,Brazil,M,70,80,96,80,72,70,91
+Carlos Martinez,Brazil,F,91,61,65,85,92,89,75
+Ana Lopez,Canada,M,63,78,91,98,90,78,94
+Alex Smith,Brazil,M,76,83,85,83,62,85,63
+Olivia Lopez,United States,F,95,78,64,84,92,88,95
+Luis Lopez,Spain,M,68,66,85,83,81,95,83
+John Johnson,Spain,F,92,62,62,62,68,81,90
+Carlos Martinez,United States,M,80,99,80,70,85,99,79
+Olivia Garcia,Spain,F,96,79,90,61,83,81,67
+David Lopez,Canada,M,98,90,76,97,96,74,63
+Olivia Martinez,United States,F,69,75,62,96,67,72,61
+Emma Garcia,Brazil,M,86,73,86,92,99,90,63
